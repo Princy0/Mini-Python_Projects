@@ -9,6 +9,7 @@ print("IP ADDRESS IS"+ IP)
 
 
 #Generate random password in Python!!
+
 #import packages named Random and string
 import random
 import string
@@ -46,6 +47,7 @@ print(password)
 
 
 #Check weather updates
+
 #importing package named requests
 import requests
 from bs4 import BeautifulSoup
