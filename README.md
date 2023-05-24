@@ -1,2 +1,2 @@
 # Mini-Python_Projects
-PY Projects...
+Python projects using frameworks like Tkinter, Django, flask!
